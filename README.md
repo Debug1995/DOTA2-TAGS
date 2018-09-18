@@ -17,6 +17,7 @@ Web directory contains the web application
 3. numpy
 4. pandas
 5. pyspark
+Make you have install hadoop and spark in your machine
 
 ### instruction
 1. run Server.py
